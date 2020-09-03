@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Here is how you can connect with me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-sumanthbadadal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanthbadadal/)](https://www.linkedin.com/in/sumanthbadadal/)
